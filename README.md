@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=welcome👋&height=300)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=welcome👋&height=300)
 
 ### ✨ _My skills_ ✨
 

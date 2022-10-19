@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joeunhye&show_icons=true&theme=material-palenight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeunhye&layout=compact&theme=radical&title_color=ae82cf)](https://github.com/anuraghazra/github-readme-stats" style="height: 195px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeunhye&layout=compact&theme=radical&title_color=ae82cf)](https://github.com/anuraghazra/github-readme-stats" style="max-width:100%; height: 195px;" />
 </a>
 
 <!--

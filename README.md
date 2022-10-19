@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=waving&text=welcome&height=300)
+![header](https://capsule-render.vercel.app/api?type=waving&text=welcome👋&height=300)
 
 <!--
 **joeunhye/joeunhye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

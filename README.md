@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=welcome👋&height=300)
 
 ### ✨ _Introduce_ ✨
-3년차 웹퍼블리셔입니다. 프론트엔드 공부중입니다~🖐
+프론트엔드 공부중입니다~🖐
 
 ### ✨ _My skills_ ✨
 

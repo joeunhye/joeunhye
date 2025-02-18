@@ -9,14 +9,6 @@
 
 ---
 
-### ✨ _Github Stats_ ✨
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joeunhye&show_icons=true&theme=material-palenight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeunhye&layout=compact&theme=radical&title_color=ae82cf)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-
 <!--
 **joeunhye/joeunhye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
